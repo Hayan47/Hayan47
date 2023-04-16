@@ -15,7 +15,11 @@ i develope android and ios applications using flutter framework
 ## Examples of Work
 
 <img src="https://github.com/Hayan47/Hayan47/blob/main/car1.jpg" width="200" height="400" />
-![alt text](https://github.com/Hayan47/Hayan47/blob/main/car1.jpg | width=100)
+<img src="https://github.com/Hayan47/Hayan47/blob/main/car2.jpg" width="200" height="400" />
+<img src="https://github.com/Hayan47/Hayan47/blob/main/nurse1.jpg" width="200" height="400" />
+<img src="https://github.com/Hayan47/Hayan47/blob/main/nurse3.jpg" width="200" height="400" />
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hayan47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hayan47/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Ab.39am)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hayan_bouobaid/)  
 
