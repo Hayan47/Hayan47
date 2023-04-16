@@ -6,7 +6,13 @@
 
 i develope android and ios applications using flutter framework
 
-Skills: Flutter / Dart / Git / Java / C++ / 
+##Skills and Experience
+* Flutter 
+* Git 
+* Java
+* C++
+
+##Examples of Work
 
 
 
