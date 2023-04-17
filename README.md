@@ -16,11 +16,11 @@ i develope android and ios applications using flutter framework
 
 <p float="left">
 <img src="https://github.com/Hayan47/Hayan47/blob/main/car1.jpg" width="200" height="400" />
-  $~~~~~~~~~~~$
+  $~~~~~~~~~~$
 <img src="https://github.com/Hayan47/Hayan47/blob/main/car2.jpg" width="200" height="400" />
-  $~~~~~~~~~~~$
+  $~~~~~~~~~~$
 <img src="https://github.com/Hayan47/Hayan47/blob/main/nurse1.jpg" width="200" height="400" />
-  $~~~~~~~~~~~$
+  $~~~~~~~~~~$
 <img src="https://github.com/Hayan47/Hayan47/blob/main/nurse3.jpg" width="200" height="400" />
 </p>
 
