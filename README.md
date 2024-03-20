@@ -1,4 +1,4 @@
-![I am Flutter Developer and Software Engineer to be](https://github.com/Hayan47/Hayan47/blob/main/PicsArt_04-16-04.30.11.jpg)
+![I am Flutter Developer and Software Engineer to be](https://github.com/Hayan47/Hayan47/blob/main/cover.png)
 
 ### Hi there 👋, my name is Hayan
 #### I am Software Engineer and Mobile Application Developer and Django Developer 
